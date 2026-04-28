@@ -1,1 +1,3 @@
-This is a BackEnd file
+# Backend Service
+
+This service handles authentication and New business logic.
